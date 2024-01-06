@@ -1,7 +1,7 @@
 # Org admins
 
-| GitHub                                                   | Discord        |
-| -------------------------------------------------------- | -------------- |
-| [@aslilac](https://github.com/aslilac)                   | @lilac#2164    |
-| [@brettkolodny](https://github.com/brettkolodny)         | @Bread#0837    |
-| [@hayleigh-dot-dev](https://github.com/hayleigh-dot-dev) | @hayleigh#9777 |
+| GitHub                                                   | Discord       |
+| -------------------------------------------------------- | ------------- |
+| [@aslilac](https://github.com/aslilac)                   | @aslilac      |
+| [@brettkolodny](https://github.com/brettkolodny)         | @bread.k      |
+| [@hayleigh-dot-dev](https://github.com/hayleigh-dot-dev) | @hayleigh.dev |
